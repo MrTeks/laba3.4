@@ -13,8 +13,8 @@ int main() {
 		return 1;
 	}
 	switch (a) {
-	case 0: cout << "Хуже среднего" << endl; break;
-	case 1: cout << "Хуже среднего" << endl; break;
+	case 0: 
+	case 1: 
 	case 2: cout << "Хуже среднего" << endl; break;
 	case 3: cout << "Средне" << endl; break;
 	case 4: cout << "Хорошо" << endl; break;
